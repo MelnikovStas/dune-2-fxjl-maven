@@ -1,0 +1,45 @@
+```
+# Java/Maven build artifacts
+target/
+**/target/
+
+# Dependencies
+lib/
+**/lib/
+
+# IDE files
+.idea/
+**/.idea/
+.vscode/
+**/.vscode/
+
+# Logs
+*.log
+**/*.log
+
+# Temporary files
+*.tmp
+**/*.tmp
+*.swp
+**/*.swp
+
+# Environment files
+.env
+**/.env
+.env.local
+**/.env.local
+*.env.*
+**/*.env.*
+
+# OS files
+.DS_Store
+**/.DS_Store
+Thumbs.db
+**/Thumbs.db
+
+# Maven specific
+**/maven-status/
+```node_modules/
+.next/
+dist/
+build/
